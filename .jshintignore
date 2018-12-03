@@ -1,1 +1,2 @@
-js/**.min.js
+inc/js/**.min.js
+inc/js/script.js
