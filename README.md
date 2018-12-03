@@ -1,4 +1,5 @@
 # Quotesin
+[![Build Status](https://travis-ci.com/pratikkry/quotesin.svg?branch=master)](https://travis-ci.com/pratikkry/quotesin)
 
 QuotesIn is a Pinterest style responsive masonry grid WordPress theme with Jetpack Infinite scroll support. Designed and developed especially for quotes websites. This is a mobile responsive WordPress theme hence your quotes websites look impressive even on mobile devices. Also you can use it for your portfolio, blogging, education or any type of site.
 
