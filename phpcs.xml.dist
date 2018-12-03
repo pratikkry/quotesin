@@ -99,5 +99,5 @@
 
 	<config name="testVersion" value="5.2-"/>
 	<rule ref="PHPCompatibilityWP"/>
-
+	<rule ref="PHPCompatibilityParagonieRandomCompat"/>
 </ruleset>
