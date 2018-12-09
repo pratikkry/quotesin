@@ -1,11 +1,10 @@
 === QuotesIn ===
 Contributors: pratikthink
 Requires at least: WordPress 4.0
-Tested up to: WordPress 4.9.8
-Stable tag: 1.4.8
-Version: 1.4.8
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tested up to: WordPress 5.0
+Stable tag: 1.4.9
+Version: 1.4.9
+License: GPLv3
 Tags: one-column, four-columns, grid-layout, custom-background, custom-logo, footer-widgets, custom-menu, translation-ready, featured-images, theme-options, blog, education, full-width-template
 Text Domain: quotesin
 
@@ -61,53 +60,12 @@ All other resources and theme elements are licensed under the [GNU GPL](http://w
 
 
 == Changelog ==
-= Version 1.0 =
-*All brand new.
+= Version 1.4.9 =
+*typo fix in readme.txt
 
-= Version 1.1 =
-*CSS(Design) Improvements.
-*Added some functions
-
-= Version 1.2 =
+= Version 1.4.8 =
 *Bug fix
-*CSS(Design) Improvements
-
-= Version 1.3 =
-*Added Unique Prefix
-*Improved Pagination
-*Full Translation Ready
-*Bug fix
-
-= Version 1.4 =
-*Changed Footer Credit Link(WordPress as icon).
-
-= Version 1.4.1 =
-*Added functions to limit 3 tags.
-*Added support for social sharing icon on homepage.
-
-= Version 1.4.2 =
-*Bug fix
-*Translation Improvements
-
-= Version 1.4.3 =
-*Fixed Jetpack Infinite scroll issue.
-
-= Version 1.4.4 =
-*Skip link focus fix
-*Keyboard image navigation
-*Enhancement - random colored quote on homepage.
-
-= Version 1.4.5 =
-*Critical issue fix(from v1.4.4)
-*Bug fix
-*Footer Enhancement
-*Pagination Enhancement
-
-= Version 1.4.6 =
-*Featured image size increased to 960px.
-*Fixed - Custom-logo size issue.
-*Some css for Buttons and Search form.
-*Enhancement for menu.
+*Footer improvements
 
 = Version 1.4.7 =
 *Bug fix
@@ -116,6 +74,50 @@ All other resources and theme elements are licensed under the [GNU GPL](http://w
 *Fixed Infinite Scroll.
 *Removed footerwidget padding.
 
-= Version 1.4.8 =
+= Version 1.4.6 =
+*Featured image size increased to 960px.
+*Fixed - Custom-logo size issue.
+*Some css for Buttons and Search form.
+*Enhancement for menu.
+
+= Version 1.4.5 =
+*Critical issue fix(from v1.4.4)
 *Bug fix
-*Footer improvements
+*Footer Enhancement
+*Pagination Enhancement
+
+= Version 1.4.4 =
+*Skip link focus fix
+*Keyboard image navigation
+*Enhancement - random colored quote on homepage.
+
+= Version 1.4.3 =
+*Fixed Jetpack Infinite scroll issue.
+
+= Version 1.4.2 =
+*Bug fix
+*Translation Improvements
+
+= Version 1.4.1 =
+*Added functions to limit 3 tags.
+*Added support for social sharing icon on homepage.
+
+= Version 1.4 =
+*Changed Footer Credit Link(WordPress as icon).
+
+= Version 1.3 =
+*Added Unique Prefix
+*Improved Pagination
+*Full Translation Ready
+*Bug fix
+
+= Version 1.2 =
+*Bug fix
+*CSS(Design) Improvements
+
+= Version 1.1 =
+*CSS(Design) Improvements.
+*Added some functions
+
+= Version 1.0 =
+*All brand new.
