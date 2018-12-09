@@ -19,7 +19,7 @@ QuotesIn is a Pinterest style responsive masonry grid WordPress theme with Jetpa
 3. Click Activate to use your new theme right away.
 
 4. OR Go to your admin area and select Themes → Add New from the menu.
-5. Search for "QuotesIN".
+5. Search for "QuotesIn".
 6. Click install.
 7. Click activate.
 
